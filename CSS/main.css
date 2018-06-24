@@ -89,10 +89,11 @@ h1{
     top: 40%;
     left: 31%;
     color: #5e5a5a;
-    font-size: 6em;
+    font-size: 5em;
     background-color: #ffffff90;
     padding: 0px;
     border: #f1f1f1 solid 2px;
+    text-align: center;
 }
 
 
